@@ -5,7 +5,7 @@ Right now I can spreak: English, Serbian, Spanish, German, French and a little b
 I am a team player, a communicative person and I am very persistent when I am learning something new.
 I like new challenges because they represent an opportunity for me. I am a hard working person, very detail-oriented in my programming. 
 - At the faculty I've also learned C, C++, JavaScript, Java, PHP.
-- This year I am participating in a science conference with my disertation theses realted to Google Apps Script.
+- This year I am participating in a science conference with my disertation theses related to Google Apps Script.
 - 📫 How to reach me: s.vesna96@gmail.com, Github account: https://www.linkedin.com/in/vesna-stojanovi%C4%87-8a5557181/
 
 
