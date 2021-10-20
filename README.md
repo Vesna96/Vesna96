@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Vesna. I am a graduate software engineer. I have a Bachelor's degree from the Faculty of Electronic Engineering, Department of Computer Science.
-- I am a Java Software Engineer Intern at HTEC Group.
 - 👀 I’m interested in programming languages and foreign languages. I am a Software Engineer and an English Teacher. I have been teaching English language online (ESL Teacher)
 for more than a year and a half now and I've taught more than 2000 classes. 
 I can speak: English, Serbian, Spanish, German, French and a little bit of Turkish. 
