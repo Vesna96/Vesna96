@@ -4,7 +4,6 @@ I can speak: English, Serbian, Spanish, German, French and a little bit of Turki
 I am a team player, a communicative person and I am very persistent when I am learning something new.
 I like new challenges because they represent an opportunity for me to learn new things and to develop myself as an engineer. 
 I am a hard working person, very detail-oriented in my programming. 
-This year I participated in a science conference with my disertation theses related to Google Apps Script.
-- 📫 How to reach me: s.vesna96@gmail.com, LinkedIn account: https://www.linkedin.com/in/vesna-stojanovi%C4%87-8a5557181/
+- 📫 How to reach me: s.vesna96@gmail.com
 
 
